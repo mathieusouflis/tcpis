@@ -1,0 +1,7 @@
+TCPIS
+=====
+
+Tcpis is a tcp server made in c.
+
+WARNING: This is a learning project. This may lack security, do not use it in
+production.
